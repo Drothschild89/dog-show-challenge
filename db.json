@@ -1,58 +1,16 @@
 {
   "dogs": [
     {
-      "id": 1,
-      "name": "kafjkalf",
-      "breed": "Adam",
-      "sex": "male"
-    },
-    {
-      "id": 2,
-      "name": "kafjkalf",
-      "breed": "Adam",
-      "sex": "male"
-    },
-    {
-      "id": 3,
-      "name": "kafjkalf",
-      "breed": "Adam",
-      "sex": "male"
-    },
-    {
-      "id": 4,
-      "name": "kafjkalf",
-      "breed": "Adam",
-      "sex": "male"
-    },
-    {
-      "id": 5,
-      "name": "kafjkalf",
-      "breed": "Adam",
-      "sex": "male"
-    },
-    {
-      "id": 6,
-      "name": "kafjkalf",
-      "breed": "Adam",
-      "sex": "male"
-    },
-    {
-      "id": 7,
-      "name": "kafjkalf",
-      "breed": "Adam",
-      "sex": "male"
-    },
-    {
       "id": 8,
-      "name": "Chloe",
-      "breed": "Dandie Terrier",
-      "sex": "male"
+      "name": "Dana",
+      "breed": "Molly",
+      "sex": "Rachel"
     },
     {
       "id": 9,
-      "name": "Shelby",
-      "breed": "Kuvasz",
-      "sex": "male"
+      "name": "Molly",
+      "breed": "Zoe",
+      "sex": "Dana"
     },
     {
       "id": 10,
